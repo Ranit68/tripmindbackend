@@ -12,7 +12,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 @Service
 public class RouteService {
     
-    @Value("${RAPID_API_KEY}")
+    @Value("${ORS_API_KEY}")
     private String API_KEY;
     
     private final ExchangeStrategies strategies =
