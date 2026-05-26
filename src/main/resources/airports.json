@@ -1,0 +1,221 @@
+{
+  "airports": [
+    {
+      "city": "Delhi",
+      "airport_name": "Indira Gandhi International Airport",
+      "airport_code": "DEL",
+      "latitude": 28.5562,
+      "longitude": 77.1000
+    },
+    {
+      "city": "Mumbai",
+      "airport_name": "Chhatrapati Shivaji Maharaj International Airport",
+      "airport_code": "BOM",
+      "latitude": 19.0896,
+      "longitude": 72.8656
+    },
+    {
+      "city": "Kolkata",
+      "airport_name": "Netaji Subhas Chandra Bose International Airport",
+      "airport_code": "CCU",
+      "latitude": 22.6547,
+      "longitude": 88.4467
+    },
+    {
+      "city": "Bengaluru",
+      "airport_name": "Kempegowda International Airport",
+      "airport_code": "BLR",
+      "latitude": 13.1986,
+      "longitude": 77.7066
+    },
+    {
+      "city": "Chennai",
+      "airport_name": "Chennai International Airport",
+      "airport_code": "MAA",
+      "latitude": 12.9941,
+      "longitude": 80.1709
+    },
+    {
+      "city": "Hyderabad",
+      "airport_name": "Rajiv Gandhi International Airport",
+      "airport_code": "HYD",
+      "latitude": 17.2403,
+      "longitude": 78.4294
+    },
+    {
+      "city": "Ahmedabad",
+      "airport_name": "Sardar Vallabhbhai Patel International Airport",
+      "airport_code": "AMD",
+      "latitude": 23.0734,
+      "longitude": 72.6266
+    },
+    {
+      "city": "Pune",
+      "airport_name": "Pune Airport",
+      "airport_code": "PNQ",
+      "latitude": 18.5821,
+      "longitude": 73.9197
+    },
+    {
+      "city": "Goa",
+      "airport_name": "Goa International Airport",
+      "airport_code": "GOI",
+      "latitude": 15.3808,
+      "longitude": 73.8314
+    },
+    {
+      "city": "Goa",
+      "airport_name": "Manohar International Airport",
+      "airport_code": "GOX",
+      "latitude": 15.7294,
+      "longitude": 73.8606
+    },
+    {
+      "city": "Jaipur",
+      "airport_name": "Jaipur International Airport",
+      "airport_code": "JAI",
+      "latitude": 26.8242,
+      "longitude": 75.8122
+    },
+    {
+      "city": "Lucknow",
+      "airport_name": "Chaudhary Charan Singh International Airport",
+      "airport_code": "LKO",
+      "latitude": 26.7606,
+      "longitude": 80.8893
+    },
+    {
+      "city": "Patna",
+      "airport_name": "Jay Prakash Narayan Airport",
+      "airport_code": "PAT",
+      "latitude": 25.5913,
+      "longitude": 85.0870
+    },
+    {
+      "city": "Bhubaneswar",
+      "airport_name": "Biju Patnaik International Airport",
+      "airport_code": "BBI",
+      "latitude": 20.2444,
+      "longitude": 85.8178
+    },
+    {
+      "city": "Guwahati",
+      "airport_name": "Lokpriya Gopinath Bordoloi International Airport",
+      "airport_code": "GAU",
+      "latitude": 26.1061,
+      "longitude": 91.5859
+    },
+    {
+      "city": "Srinagar",
+      "airport_name": "Srinagar International Airport",
+      "airport_code": "SXR",
+      "latitude": 33.9871,
+      "longitude": 74.7743
+    },
+    {
+      "city": "Chandigarh",
+      "airport_name": "Chandigarh International Airport",
+      "airport_code": "IXC",
+      "latitude": 30.6735,
+      "longitude": 76.7885
+    },
+    {
+      "city": "Amritsar",
+      "airport_name": "Sri Guru Ram Dass Jee International Airport",
+      "airport_code": "ATQ",
+      "latitude": 31.7096,
+      "longitude": 74.7973
+    },
+    {
+      "city": "Varanasi",
+      "airport_name": "Lal Bahadur Shastri International Airport",
+      "airport_code": "VNS",
+      "latitude": 25.4524,
+      "longitude": 82.8593
+    },
+    {
+      "city": "Kochi",
+      "airport_name": "Cochin International Airport",
+      "airport_code": "COK",
+      "latitude": 10.1520,
+      "longitude": 76.4019
+    },
+    {
+      "city": "Thiruvananthapuram",
+      "airport_name": "Trivandrum International Airport",
+      "airport_code": "TRV",
+      "latitude": 8.4821,
+      "longitude": 76.9201
+    },
+    {
+      "city": "Kozhikode",
+      "airport_name": "Calicut International Airport",
+      "airport_code": "CCJ",
+      "latitude": 11.1368,
+      "longitude": 75.9553
+    },
+    {
+      "city": "Coimbatore",
+      "airport_name": "Coimbatore International Airport",
+      "airport_code": "CJB",
+      "latitude": 11.0300,
+      "longitude": 77.0434
+    },
+    {
+      "city": "Madurai",
+      "airport_name": "Madurai Airport",
+      "airport_code": "IXM",
+      "latitude": 9.8345,
+      "longitude": 78.0934
+    },
+    {
+      "city": "Nagpur",
+      "airport_name": "Dr. Babasaheb Ambedkar International Airport",
+      "airport_code": "NAG",
+      "latitude": 21.0922,
+      "longitude": 79.0472
+    },
+    {
+      "city": "Indore",
+      "airport_name": "Devi Ahilyabai Holkar Airport",
+      "airport_code": "IDR",
+      "latitude": 22.7218,
+      "longitude": 75.8011
+    },
+    {
+      "city": "Raipur",
+      "airport_name": "Swami Vivekananda Airport",
+      "airport_code": "RPR",
+      "latitude": 21.1804,
+      "longitude": 81.7388
+    },
+    {
+      "city": "Ranchi",
+      "airport_name": "Birsa Munda Airport",
+      "airport_code": "IXR",
+      "latitude": 23.3143,
+      "longitude": 85.3217
+    },
+    {
+      "city": "Visakhapatnam",
+      "airport_name": "Visakhapatnam Airport",
+      "airport_code": "VTZ",
+      "latitude": 17.7212,
+      "longitude": 83.2245
+    },
+    {
+      "city": "Mangalore",
+      "airport_name": "Mangalore International Airport",
+      "airport_code": "IXE",
+      "latitude": 12.9613,
+      "longitude": 74.8901
+    },
+    {
+      "city": "Port Blair",
+      "airport_name": "Veer Savarkar International Airport",
+      "airport_code": "IXZ",
+      "latitude": 11.6412,
+      "longitude": 92.7297
+    }
+  ]
+}
